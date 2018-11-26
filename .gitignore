@@ -1,3 +1,7 @@
+*.sublime-project
+*.sublime-workspace
+
+/data
 
 # General
 *.DS_Store
